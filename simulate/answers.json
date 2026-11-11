@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "answer": "קוד ההתרעה E-26 מציין לחץ שמן נמוך. מה עושים: לעצור מיד ולא להמשיך בנסיעה.",
+    "citations": [
+      {"chunk_id": "warning-codes#1", "quote": "לחץ שמן נמוך"},
+      {"chunk_id": "warning-codes#1", "quote": "לעצור מיד ולא להמשיך בנסיעה"}
+    ],
+    "insufficient_context": false
+  },
+  {
+    "id": 2,
+    "answer": "נפח תא המטען של OF-450H הוא 480 ליטר, כשהשורה השלישית מקופלת.",
+    "citations": [
+      {"chunk_id": "of-450h-merhav-hybrid#2", "quote": "480 ליטר, כשהשורה השלישית מקופלת"}
+    ],
+    "insufficient_context": false
+  },
+  {
+    "id": 3,
+    "answer": "במוסך בודקים את חיבור צינור נוזל הקירור ומחליפים את התפס שלו.",
+    "citations": [
+      {"chunk_id": "service-bulletins#4", "quote": "במוסך יבדקו את חיבור הצינור ויחליפו את התפס שלו"}
+    ],
+    "insufficient_context": false
+  },
+  {
+    "id": 4,
+    "answer": "המחיר של אביזר ACC-7731, רשת הפרדה לתא המטען, הוא 870.",
+    "citations": [
+      {"chunk_id": "accessories#2", "quote": "ACC-7731 | רשת הפרדה לתא המטען | OF-450, OF-450H, OF-E7 | 870"}
+    ],
+    "insufficient_context": false
+  },
+  {
+    "id": 5,
+    "answer": "אין בקטעים מידע על כושר ההעמסה של הרכב המסחרי OF-V8.",
+    "citations": [],
+    "insufficient_context": true
+  },
+  {
+    "id": 6,
+    "answer": "נורית בלם אדומה מציינת קוד E-31. הקוד מציין תקלה במערכת הבלימה או מפלס נמוך של נוזל בלמים. מה עושים: לעצור בצד בבטחה ולהזמין גרר.",
+    "citations": [
+      {"chunk_id": "warning-codes#1", "quote": "נורית בלם אדומה"},
+      {"chunk_id": "warning-codes#1", "quote": "תקלה במערכת הבלימה או מפלס נמוך של נוזל בלמים"},
+      {"chunk_id": "warning-codes#1", "quote": "לעצור בצד בבטחה ולהזמין גרר"}
+    ],
+    "insufficient_context": false
+  },
+  {
+    "id": 7,
+    "answer": "אופק מרחב (OF-450) מתאים למשפחה גדולה. הוא נבנה למשפחות גדולות ויש לו שבעה מקומות ישיבה.",
+    "citations": [
+      {"chunk_id": "of-450-merhav#0", "quote": "הוא נבנה למשפחות גדולות"},
+      {"chunk_id": "of-450-merhav#0", "quote": "שבעה מקומות ישיבה"}
+    ],
+    "insufficient_context": false
+  },
+  {
+    "id": 8,
+    "answer": "לרכב בנזין נדרש טיפול תקופתי כל 15,000 ק״מ או פעם בשנה, המוקדם מביניהם.",
+    "citations": [
+      {"chunk_id": "service-schedule#0", "quote": "טיפול תקופתי נדרש כל 15,000 ק״מ או פעם בשנה, המוקדם מביניהם"}
+    ],
+    "insufficient_context": false
+  },
+  {
+    "id": 9,
+    "answer": "המחיר של OF-320 בגימור מלא הוא 169,900, לפי מחירון 2025.",
+    "citations": [
+      {"chunk_id": "price-list-2025#1", "quote": "אופק פמילי | OF-320 | 149,900 | 169,900"}
+    ],
+    "insufficient_context": false
+  },
+  {
+    "id": 10,
+    "answer": "צריכת הדלק המשולבת של אופק סיטי היא 18.5 ק״מ לליטר.",
+    "citations": [
+      {"chunk_id": "of-210-city#1", "quote": "18.5 ק״מ לליטר"}
+    ],
+    "insufficient_context": false
+  },
+  {
+    "id": 11,
+    "answer": "רכב חדש שנמסר השנה מקבל אחריות יצרן ל־7 שנים או ל־150,000 ק״מ, המוקדם מביניהם. המדיניות חלה על רכבים שנמסרו מ־1 בינואר 2025 ואילך.",
+    "citations": [
+      {"chunk_id": "warranty-2025#1", "quote": "מקבל אחריות יצרן ל־7 שנים או ל־150,000 ק״מ, המוקדם מביניהם"},
+      {"chunk_id": "warranty-2025#0", "quote": "שנמסרו ללקוחות מ־1 בינואר 2025 ואילך"}
+    ],
+    "insufficient_context": false
+  },
+  {
+    "id": 12,
+    "answer": "לפי הקטעים, לאופק E7 יש סוללה גדולה יותר, ולכן הוא מאפשר נסיעות ארוכות בלי לעצור לטעינה. הקטעים לא מציינים טווח נסיעה במספרים, ולכן אי אפשר לומר בכמה הטווח ארוך יותר.",
+    "citations": [
+      {"chunk_id": "of-e7#0", "quote": "סוללה גדולה יותר מאפשרת בו נסיעות ארוכות בלי לעצור לטעינה"}
+    ],
+    "insufficient_context": false
+  },
+  {
+    "id": 13,
+    "answer": "אין בקטעים מידע על דגם OF-900, ולכן אין מחיר שאפשר לענות עליו.",
+    "citations": [],
+    "insufficient_context": true
+  },
+  {
+    "id": 14,
+    "answer": "אין בקטעים מידע על גג נפתח באופק סיטי.",
+    "citations": [],
+    "insufficient_context": true
+  },
+  {
+    "id": 15,
+    "answer": "לפי הקטע, מוצעת הרחבת אחריות בשנה נוספת בתוספת של 2,900 ש״ח. ההצעה תקפה לרכבים חדשים בלבד, ויש לחתום עליה בזמן הרכישה. הקטע מתאר את ההצעה כמוצעת בחודשי החורף, ולא כתוב בו אם היא תקפה היום.",
+    "citations": [
+      {"chunk_id": "sales-notes-2025#0", "quote": "בחודשי החורף מוצעת ללקוחות הרחבת אחריות בשנה נוספת"},
+      {"chunk_id": "sales-notes-2025#0", "quote": "בתוספת של 2,900 ש״ח"},
+      {"chunk_id": "sales-notes-2025#0", "quote": "ההצעה תקפה לרכבים חדשים בלבד"},
+      {"chunk_id": "sales-notes-2025#0", "quote": "ויש לחתום עליה בזמן הרכישה"}
+    ],
+    "insufficient_context": false
+  }
+]
